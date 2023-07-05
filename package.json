@@ -1,0 +1,21 @@
+{
+  "name": "avriya-calculator",
+  "version": "1.0.0",
+  "description": "A basic calculator library for arithmetic",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arithmetic",
+    "calculator",
+    "math",
+    "add",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "ismet-k",
+  "license": "ISC"
+}
