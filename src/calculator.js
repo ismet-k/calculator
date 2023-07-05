@@ -7,7 +7,7 @@ import { validateNumber, validateZero } from "./utils/validation.js";
  * @param {number} b Addend
  * @returns Sum
  */
-add(a, b) = () => {
+const add = (a, b) => {
   validateNumber(a);
   validateNumber(b);
   return a + b;
